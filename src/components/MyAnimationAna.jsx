@@ -10,7 +10,7 @@ export function MyAnimationAna(){
         const frameH = 296.40;
         const cols = 5;
         const totalFrames = 60;
-        const fps = 18;
+        const fps = 20;
 
         let frameAtual = 0;
         let tempoAnterior = 0;
